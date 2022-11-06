@@ -4,18 +4,18 @@ picture
 
 instructions for download
 
-stats
+##Stats
 
-Engine:
+**Engine:**
 
-Transmission:
+**Transmission:**
 
-fuel type:
+**fuel type:**
 
-drivetrain:
+**drivetrain:**
 
-horsepower:
+**horsepower:**
 
-top speed:
+**top speed:**
 
 link to beamng mod and github repo
